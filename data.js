@@ -710,4 +710,22 @@ module.exports = [
       'Hyper terminal',
       ]
   },
+  {
+    name: 'Sunil Sandhu',
+    description: 'Software Developer, Founder of In Plain English',
+    url: 'https://sunilsandhu.com/',
+    twitter: '@sunilsandhu',
+    tags: [
+      'HTML',
+      'CSS',
+      'JavaScript',
+      'Web Development',
+      'Vue',
+      'React',
+      'Front End',
+      'Computer Science',
+      'Algorithms',
+      'Python',
+    ],
+  },
 ];
